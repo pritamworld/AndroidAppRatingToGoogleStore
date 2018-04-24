@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TDD</string>
+    <string name="my_own_title">Sample Application Title</string>
+    <string name="my_own_message">Do you want to rate this application?</string>
+    <string name="my_own_rate">Yes</string>
+    <string name="my_own_thanks">No Thanks</string>
+    <string name="my_own_cancel">Cancel</string>
+</resources>
